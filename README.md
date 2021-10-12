@@ -1,4 +1,4 @@
-# infnet-bl4-javascript-tp1
+# infnet-bl4-html-css-tp1
 ## Instituto Infnet
 ### Análise e Desenvolvimento de Sistemas - Interfaces com HTML e CSS
 ### Trabalho Prático 1
